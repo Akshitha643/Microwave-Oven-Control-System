@@ -56,7 +56,7 @@ The system is designed using Embedded C and demonstrates peripheral interfacing,
 
 ---
 
-## ⚙️ Cooking Modes
+## Cooking Modes
 
 ### 🔹 Micro Mode
 - 900W cooking mode
